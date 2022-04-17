@@ -1,0 +1,21 @@
+.container {
+    border: solid 1px ;
+}
+
+.row {
+    border: solid 1px blue;
+}
+
+.col-sm {
+    border: solid 1px red;
+}
+
+.container:hover {
+    background: rgba(128, 128, 128, 0.124);
+}
+.row:hover {
+    background: rgba(126, 124, 255, 0.343);
+}
+.col-sm:hover {
+    background: rgba(253, 75, 75, 0.401);
+}
